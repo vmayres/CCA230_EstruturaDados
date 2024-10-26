@@ -1,2 +1,4 @@
-# CCA230_EstruturaDados
- Aulas de estrutura de dados 7º semestre de Eng. de Robôs
+# Repositorio Aulas de Estrtura de Dados
+### 1 Semetre de 2024 Eng. de Robôs Centro Universitario FEI
+
+TODO: escrever sobre esse repositorio

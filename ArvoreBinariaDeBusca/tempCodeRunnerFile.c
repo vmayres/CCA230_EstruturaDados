@@ -1,0 +1,2 @@
+
+    printf("%d ", raiz->valor);
